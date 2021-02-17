@@ -1,0 +1,6 @@
+framework module Pods_HomeElveTests {
+  umbrella header "Pods-HomeElveTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
